@@ -1,0 +1,72 @@
+//INSERT INTO `profile`(`username`, `name`, `email`, `website`, `bio`, `phone_no`, `gender`) VALUES ([value-1],[value-2],[value-3],[value-4],[value-5],[value-6],[value-7])
+
+
+INSERT INTO `profile`(`username`, `name`, `email`, `website`, `bio`, `phone_no`, `gender`) VALUES ('Tiya123','Tiya','tiyap@gmail.com','www.xyz.com','Simple but significant.
+Doing better.Rollin’ with the homies','123456789','female');
+
+INSERT INTO `profile`(`username`, `name`, `email`, `website`, `bio`, `phone_no`, `gender`) VALUES ('khushi2000','Khushi','khushi55@gmail.com','','Instagram bio currently loading
+I’m actually not funny. I’m just really mean but people always think I’m joking.','9234578916','female');
+
+INSERT INTO `profile`(`username`, `name`, `email`, `website`, `bio`, `phone_no`, `gender`) VALUES ('nisarg_01','Nisarg','nisarg23@gmail.com','','They call me Febreeze because I’m so fresh.I believe in bee-ing myself','5678912345','male');
+
+INSERT INTO `profile`(`username`, `name`, `email`, `website`, `bio`, `phone_no`, `gender`) VALUES ('vishalj@89','Vishal','vishalkev@gmail.com','www.abc.com','Artists never retire, they withdraw instead','9873216541','male');
+
+INSERT INTO `profile`(`username`, `name`, `email`, `website`, `bio`, `phone_no`, `gender`) VALUES ('zeel404','Zeel Joshi','zeel33@gmail.com','','Don’t know what to do? You can start by hitting that follow button.Risk taker. Adventurer. Globetrotter. Living my dreams.','6354789791','male');
+
+INSERT INTO `profile`(`username`, `name`, `email`, `website`, `bio`, `phone_no`, `gender`) VALUES ('Raj_mehta','Raj','raj233@gmail.com','','I got to where I am today by being me
+I was born to do exactly what I’m doing today.Don’t like me? Don’t care.','7687921356','male');
+
+INSERT INTO `profile`(`username`, `name`, `email`, `website`, `bio`, `phone_no`, `gender`) VALUES ('shruti_51','Shruti','shrutipandya@gmail.com','www.edc.com','Always better together xoxo
+You’ll never shine if all you do is throw shade','','female');
+
+INSERT INTO `profile`(`username`, `name`, `email`, `website`, `bio`, `phone_no`, `gender`) VALUES ('kj_2001','Krutika','kj2001@gmail.com','','I may be a fashionista but I’m not all about labels.My best stories are found within the pages of my passport','7879756361','female');
+
+INSERT INTO `profile`(`username`, `name`, `email`, `website`, `bio`, `phone_no`, `gender`) VALUES ('sHaShw@t_04','Shashwat','shashwt3@gmail.com','','ravel is the only thing you buy that makes you richer
+All I need is Vitamin Sea 🌊','9158769134','male');
+
+INSERT INTO `profile`(`username`, `name`, `email`, `website`, `bio`, `phone_no`, `gender`) VALUES ('vish_56','Vishwas','vish45@gmail.com','','It’s better to be a lonely lion than a popular sheep
+Wake. Play. Slay.','7673958216','male');
+
+INSERT INTO `profile`(`username`, `name`, `email`, `website`, `bio`, `phone_no`, `gender`) VALUES ('vaidehi_09','Vaidehi Bhatt','vaidu8@gmail.com','www.wsx.com','C’est la vie
+I strive to impress myself','6652478324','female');
+
+INSERT INTO `profile`(`username`, `name`, `email`, `website`, `bio`, `phone_no`, `gender`) VALUES ('Parampara_4','Parampara','pari86@gmail.com','www.pri.com','Single and living my best life
+I may be a handful but hey you’ve got two hands!','9812742323','female');
+
+INSERT INTO `profile`(`username`, `name`, `email`, `website`, `bio`, `phone_no`, `gender`) VALUES ('KrISh@145','Krish','krish78@gmail.com','','Creating a life, I love
+Simplicity is the key to happiness.In a world of worriers, be a warrior','9893197364','male');
+
+INSERT INTO `profile`(`username`, `name`, `email`, `website`, `bio`, `phone_no`, `gender`) VALUES ('Rubi_001','Rubina','rubi7@gmail.com','www.rub.com','Captivated from life, showing it here
+We have tomorrows for reason','9691738246','female');
+
+INSERT INTO `profile`(`username`, `name`, `email`, `website`, `bio`, `phone_no`, `gender`) VALUES ('jeet_03','Jeet','jeet20@gmail.com','www.uhb.com','Your life does not get better by chance. It gets better by a change
+You is kind, you is smart, you is important','7695483216','male');
+
+INSERT INTO `profile`(`username`, `name`, `email`, `website`, `bio`, `phone_no`, `gender`) VALUES ('Koyal83','Koyal','kramani@gmail.com','','I practice what I post
+She turned her can’t into can and her dreams into plans.Creating my own sunshine.','6493827191','female');
+
+INSERT INTO `profile`(`username`, `name`, `email`, `website`, `bio`, `phone_no`, `gender`) VALUES ('Pruthvi_2001','Pruthviraj Jadeja','pruthv1@gmail.com','','Simplicity is the key to happiness.
+In a world of darkness look up at the stars','9193768264','male');
+
+INSERT INTO `profile`(`username`, `name`, `email`, `website`, `bio`, `phone_no`, `gender`) VALUES ('Vir@t_89','Virat Jani','vijani70@gmail.com','','All I do is win, win, win. No matter what.','9796826435','male');
+
+INSERT INTO `profile`(`username`, `name`, `email`, `website`, `bio`, `phone_no`, `gender`) VALUES ('Annu_sha12','Aneri patel','annupatel@gmail.com','www.olp.com','Whether you think you can or you think you can’t, you’re right.Creativity solves everything.','6378198546','female');
+
+INSERT INTO `profile`(`username`, `name`, `email`, `website`, `bio`, `phone_no`, `gender`) VALUES ('Darsh_5','Darsh Joshi','dj346@gmail.com','','I got here by being me, so I’ll continue being me.
+You couldn’t handle me even if I came with instructions.Kilometers are shorter than miles. To save gas I’ll take my next trip in kilometers.','9763851465','male');
+
+INSERT INTO `profile`(`username`, `name`, `email`, `website`, `bio`, `phone_no`, `gender`) VALUES ('aelis_mehtani1','Aelis','am90@gmail.com','','If you don’t build your dream, someone will hire you to build theirs.
+If opportunity doesn’t knock, build a door.The road to success is always under construction.The happiest people make the best out of anything.','','male');
+
+INSERT INTO `profile`(`username`, `name`, `email`, `website`, `bio`, `phone_no`, `gender`) VALUES ('Jaitra@67','Jaitra Trivedi','jaitra783@gmail.com','','Love what you do.
+What is the point of life without passion?','6369675214','male');
+
+INSERT INTO `profile`(`username`, `name`, `email`, `website`, `bio`, `phone_no`, `gender`) VALUES ('Hitarth_vaghela34','Hitarth','hitut@gmail.com','','Kind words cost nothing.
+Look in the mirror and see your competitor.','9898462739','male');
+
+INSERT INTO `profile`(`username`, `name`, `email`, `website`, `bio`, `phone_no`, `gender`) VALUES ('Diapk_c345','Dipak','dipak2989@gmail.com','','Sometimes, the fear of losing someone is making us losing them
+Sorry for taking the same boring face every day.You have ruined the melody of my favorite song.','7576762325','male');
+
+INSERT INTO `profile`(`username`, `name`, `email`, `website`, `bio`, `phone_no`, `gender`) VALUES ('Pranav_joshi005','Pranav Joshi','pranav5@gmail.com','www.ert.com','Not everyone has to like me, Not everyone has taste.In a world of average, I’m savage.','6536968715','male');
+
+INSERT INTO `profile`(`username`, `name`, `email`, `website`, `bio`, `phone_no`, `gender`) VALUES ('V_viramgama','Vyom','weyom3@gmail.com','','Just smiles 🙂.Happy thoughts','8989785261','male');
